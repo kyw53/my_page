@@ -1,0 +1,21 @@
+body {
+    background-image: url("images/secondPacino.jpg");
+    color: #EE4B2B;
+    font-family: georgia, serif;
+}
+
+table {
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 128px;
+}
+
+td{
+    font-style: italic;
+}
+
+span.returnLink{
+    color: #000000;
+    background-color: #D3D3D3;
+    padding: 24px;
+}
