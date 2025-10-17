@@ -1,5 +1,7 @@
 body {
     background-image: url("images/secondPacino.jpg");
+    background-color: #000000;
+    background-size: cover;
     color: #EE4B2B;
     font-family: georgia, serif;
 }
@@ -7,7 +9,7 @@ body {
 table {
     background-color: #FFFFFF;
     color: #000000;
-    margin: 128px;
+    margin: 32px;
 }
 
 td{
