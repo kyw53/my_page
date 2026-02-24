@@ -8,6 +8,7 @@ body {
 
 table {
     background-color: #FFFFFF;
+    opacity: 0.75;
     color: #000000;
     margin: 32px;
 }
@@ -19,5 +20,31 @@ td{
 span.returnLink{
     color: #000000;
     background-color: #D3D3D3;
-    padding: 24px;
+    margin: 32px;
+    padding: 4px;
+}
+nav 
+{
+background-color: #332B13;
+text-align: center; 
+width: 100%; 
+}       
+    
+nav div 
+{
+padding: 14px 20px; 
+display: inline-block; 
+}      
+      
+nav a 
+{
+font-size: 23px;
+text-decoration: none; 
+color: #FFFF33; 
+}
+        
+nav div:hover 
+{
+background-color: #555; 
+color: white; 
 }
