@@ -1,0 +1,56 @@
+body {
+background-color: #668300;
+color: #FFFF33;
+font-family: georgia, serif;
+}
+div.list{
+    margin:5%;
+    
+}
+span.text{
+    color: #8B000B;
+    font-style: italic;
+    font-weight:bold;
+}
+
+h1{
+    font-style: italic;
+    margin: 32px;
+}
+
+
+span.tier{
+    font-style:italic;
+    color: #332B13;
+    font-size: 32px;
+}
+nav 
+{
+background-color: #332B13;
+text-align: center; 
+width: 100%; 
+}       
+    
+nav div 
+{
+padding: 14px 20px; 
+display: inline-block; 
+}      
+      
+nav a 
+{
+font-size: 23px;
+text-decoration: none; 
+color: #FFFF33; 
+}
+        
+nav div:hover 
+{
+background-color: #555; 
+color: white; 
+}
+img{
+    padding: 32px;
+    border-radius: 12px;
+    max-width: 50%
+}
